@@ -1,3 +1,7 @@
+
+My CV: [here](/pdf/CV_Paula Parpart academic.pdf)
+
+
 I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and learning-to-learn. How do people know when ignoring information (i.e., sparse/regularized solution) leads to better decisions?
 
 Much of my PhD research has focused on reconciling heuristic and Bayesian views of rationality in decision making. One of my key contributions is the idea that heuristics can be conceptualised as embodying extreme Bayesian priors. I find that entirely ignoring information (such as heuristics do) is never the optimal solution - a decision strategy which down-weights information with the appropriate prior will always outperform a strategy that entirely ignores it. This approach has helped to explain why heuristics work so well in practice - heuristics may perform well not because they throw out information, but because they approximate intermediate Bayesian models that have the optimal prior for the environment.
@@ -38,6 +42,9 @@ _Cognitive Psychology_, volume 102, pp. 127 - 144 [Link](https://www.sciencedire
 
 ###  2017
 
+
+
+
 ###  2016
 
 Kopec, L., **Parpart, P.**, Wallang, P. & Love, B.C. (2016). Less Information Can
@@ -62,7 +69,7 @@ control and heuristic processes. _Proceedings of the 31st Annual Conference of t
 
 
 ```markdown
-###### The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
+The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
 
 ```
 
