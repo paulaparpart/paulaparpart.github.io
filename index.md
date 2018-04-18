@@ -5,8 +5,7 @@ I am a computational cognitive scientist and Visiting Scholar at the [Moore-Sloa
 
 Much of my PhD research has focused on reconciling heuristic and Bayesian views of rationality in decision making. One of my key contributions is the idea that heuristics can be conceptualised as embodying extreme Bayesian priors. I find that entirely ignoring information (such as heuristics do) is never the optimal solution - a decision strategy which down-weights information with the appropriate prior will always outperform a strategy that entirely ignores it. This approach has helped to explain why heuristics work well in practice. Previously, I was a Teaching Fellow at UCL from 2016 - 2017 on the MSc Cognitive and Decision Sciences, and a PhD student in Prof. Brad Love's [lab](http://bradlove.org/lab).
 
-In the final year of my PhD, I founded [brainpool.ai](http://brainpool.ai/) - an artificial intelligence consultancy that operates a global network of academics and delivers machine learning solutions to businesses in the healthcare, tech, finance, government, manufacturing, marketing and IoT sectors. 
-
+In the final year of my PhD, I founded [brainpool.ai](http://brainpool.ai/) - an artificial intelligence consultancy that delivers machine learning solutions to private and public sectors such as healthcare, tech, finance or government.
 
 
 ###  Publications
