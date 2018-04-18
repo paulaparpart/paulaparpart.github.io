@@ -1,7 +1,7 @@
 CV: ![here](https://github.com/paulaparpart/paulaparpart.github.io/tree/master/pdf/CogPsy2018.pdf)
 
 
-![portait](https://github.com/paulaparpart/paulaparpart.github.io/blob/master/images/Ocropped.jpg)
+![portait](https://github.com/paulaparpart/paulaparpart.github.io/blob/master/images/portrait.jpg)
 
 
 I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and learning-to-learn. How do people know when ignoring information (i.e., sparse/regularized solution) leads to better decisions?
