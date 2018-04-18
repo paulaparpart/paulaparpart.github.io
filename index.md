@@ -1,7 +1,7 @@
 
 My CV: [here](https://paulaparpart.github.io/pdf/CV_Paula%20Parpart%20academic.pdf)
 
-I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and the concept of learning-to-learn. How do people know when to ignore information (i.e., rely on sparse/regularized solutions)?
+I am a computational cognitive scientist and Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and the concept of learning-to-learn. How do people know when to ignore information (i.e., rely on sparse/regularized solutions)?
 
 Much of my PhD research has focused on reconciling heuristic and Bayesian views of rationality in decision making. One of my key contributions is the idea that heuristics can be conceptualised as embodying extreme Bayesian priors. I find that entirely ignoring information (such as heuristics do) is never the optimal solution - a decision strategy which down-weights information with the appropriate prior will always outperform a strategy that entirely ignores it. This approach has helped to explain why heuristics work well in practice. Previously, I was a Teaching Fellow at UCL from 2016 - 2017 on the MSc Cognitive and Decision Sciences, and a PhD student in Prof. Brad Love's [lab](http://bradlove.org/lab).
 
