@@ -1,5 +1,5 @@
 
-My CV: [here](/pdf/CV_Paula Parpart academic.pdf)
+My CV: [here](paulaparpart.github.io/pdf/CV_Paula Parpart academic.pdf)
 
 
 I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and learning-to-learn. How do people know when ignoring information (i.e., sparse/regularized solution) leads to better decisions?
