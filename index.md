@@ -1,5 +1,6 @@
 
 My CV: [here](https://paulaparpart.github.io/pdf/CV_Paula%20Parpart%20academic.pdf)
+
 [Google Scholar](https://scholar.google.co.uk/citations?user=NzxL4G4AAAAJ&hl=en)
 
 I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and the concept of learning-to-learn. How do people know when to ignore information (i.e., rely on sparse/regularized solutions)?
