@@ -34,7 +34,7 @@ success of heuristics?
 
 **Parpart, P.**, Jones, M., & Love, B.C. (2018). Heuristics as Bayesian inference under extreme priors.
 _Cognitive Psychology_, volume 102, pp. 127 - 144 [Link](https://www.sciencedirect.com/science/article/pii/S0010028517303286)
-[pdf]()
+[pdf](https://paulaparpart.github.io/pdf/PsyCog.pdf)
 
 **Parpart, P.**, & Schulz, E. (2018), The role of covariance in heuristics suggests a reinterpretation of Take-The-Best’s success. _Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society._
 
