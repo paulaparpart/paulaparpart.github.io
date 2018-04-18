@@ -1,9 +1,3 @@
-CV: ![here](https://github.com/paulaparpart/paulaparpart.github.io/tree/master/pdf/CogPsy2018.pdf)
-
-
-![portait](https://github.com/paulaparpart/paulaparpart.github.io/blob/master/images/portrait.jpg)
-
-
 I am a computational cognitive scientist and a Visiting Scholar at the [Moore-Sloan Centre for Data Science](https://cds.nyu.edu/) at New York University, working with [Todd Gureckis](http://gureckislab.org/papers.php). I am interested in why people are so good at generalizing to novel tasks from little data and learning-to-learn. How do people know when ignoring information (i.e., sparse/regularized solution) leads to better decisions?
 
 Much of my PhD research has focused on reconciling heuristic and Bayesian views of rationality in decision making. One of my key contributions is the idea that heuristics can be conceptualised as embodying extreme Bayesian priors. I find that entirely ignoring information (such as heuristics do) is never the optimal solution - a decision strategy which down-weights information with the appropriate prior will always outperform a strategy that entirely ignores it. This approach has helped to explain why heuristics work so well in practice - heuristics may perform well not because they throw out information, but because they approximate intermediate Bayesian models that have the optimal prior for the environment.
@@ -68,32 +62,9 @@ control and heuristic processes. _Proceedings of the 31st Annual Conference of t
 
 
 ```markdown
-The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
+###### The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulaparpart/paulaparpart.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
