@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,7 +18,7 @@ a {
     text-decoration: none;
     color: teal;/*#526F35, #999;*/
 }
-}
+
 a:hover {
     text-decoration: underline;
 }
@@ -38,10 +38,10 @@ h3 {
     color: teal;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
-    /*font-family:'Georgia', 'Arial', 'Sans-Serif'; */ 
+    font-family:'serif', 'Arial', 'Sans-Serif'; 
 }
 p.small {
     font-size: 70%;
