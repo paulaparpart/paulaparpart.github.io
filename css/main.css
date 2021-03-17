@@ -29,13 +29,13 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'serif', 'Arial', 'Sans-Serif';
 }
 h3 {
     font-size: 1.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;
-    color: teal;
+    font-family:'serif', 'Arial', 'Sans-Serif';
+    text-align: left;
+    color: black;
 }
 p {
     font-size: 1em;
